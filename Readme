@@ -1,1 +1,22 @@
+This project tries to underline the importance of EDA tp build a robust machine learning model.
+EDA uveils patterns, trends and outliers of the dataset, it also helps in making informed decisions about feature selections, preprocessing and model selection.
+Here this projet follows the below steps to comple the EDA process...
 
+
+1. Gathering Data
+2. Datatypes changes
+3. Missing Values and solving the issues
+4. Mapping value using numpy
+5. inconsistent types
+6. Checking for Duplicates
+7. Outliers 
+8. Feature Engineering (adding new features)
+9. EDA in our Dataset
+10. How discount are affecting cancellation?
+11. Transforming Dataset and Merging(Joins)
+12. Genrating more insights from our EDA
+
+
+Thanks,
+Rithvik
+*********************************************************************************************************************************************
